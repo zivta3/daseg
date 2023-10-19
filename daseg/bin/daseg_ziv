@@ -1,0 +1,1 @@
+from daseg.models.x_vector import _XvectorModel
